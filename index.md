@@ -1,4 +1,4 @@
 ---
-title: # Tyler Harms Research Page
+title: Tyler Harms Research Page
 ---
 
